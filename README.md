@@ -10,7 +10,7 @@ modelp.py is code for training k8s simulation model.
 
 manual.py is complementary function for modelp.py, including dataloader set-up.
 
-de_mDQN_thc.py is for training RL to enable online interaction between agent and environment. This version code is for thread-call double agent within depoendent relationships.
+de_mDQN_thc.py is for training RL to enable online interaction between agent and environment. This version code is for thread-call double agent within dependent relationship.
 
 function.py is complementary function for DQN, including reward definition.
 
