@@ -1,6 +1,7 @@
 # RL-for-Networking-Resillience
-Python Version:
+Version:
 Python >= 3.7.0
+
 Torch >= 1.4.0
 
 NNk8s is trained network paramaters for k8s simulation model.
