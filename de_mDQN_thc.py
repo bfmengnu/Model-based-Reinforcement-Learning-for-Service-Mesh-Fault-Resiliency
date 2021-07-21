@@ -23,7 +23,7 @@ N_STATES1 = 7
 #Call State
 N_STATES2 = 8
 #Well-trained simulation network of bookinfo
-PATH = 'modelresult/NNpk8s'
+PATH = 'NNpk8s'
 device = 'cpu'
 #Parameter for simulation network of bookinfo
 dim_hidden = 512
