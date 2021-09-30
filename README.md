@@ -1,10 +1,17 @@
 # RL-for-Networking-Resillience
+**Fanfei Meng**	fanfeimeng2023@u.northwestern.edu		
+Northwestern University, United States
+**Lalita Jagadeesan**	lalita.jagadeesan@nokia-bell-labs.com	United States	
+Nokia Bell Labs, United States
+**Marina Thottan**	mthottan@amazon.com
+Amazon Web Services, United States
+
+Microservice-based architectures enable different aspects of web applications to be created and updated independently, even after deployment. Associated technologies such as service mesh provide application-level fault resilience through attribute configurations that govern the behavior of request - response service -- and the interactions among them -- in the presence of failures. While this provides tremendous flexibility, the configured values of these attributes -- and the relationships among them -- can significantly affect the performance and fault resilience of the overall application. Furthermore, it is impossible to determine the best and worst combinations of attribute values with respect to fault resiliency via testing, due to the complexities of the underlying distributed system and the many possible attribute value combinations,  In this paper, we present a model-based reinforcement learning approach towards  service mesh fault resilience.  Our approach enables the prediction of the most significant fault resilience behaviors at a web application-level, scratching from single service to multi-service management with efficient agent collaborations.
+
 Version:
 Python >= 3.7.0
 
 torch >= 1.4.0
-
-Microservice-based architectures enable different aspects of web applications to be created and updated independently, even after deployment. Associated technologies such as service mesh provide application-level fault resilience through attribute configurations that govern the behavior of request - response service -- and the interactions among them -- in the presence of failures. While this provides tremendous flexibility, the configured values of these attributes -- and the relationships among them -- can significantly affect the performance and fault resilience of the overall application. Furthermore, it is impossible to determine the best and worst combinations of attribute values with respect to fault resiliency via testing, due to the complexities of the underlying distributed system and the many possible attribute value combinations,  In this paper, we present a model-based reinforcement learning approach towards  service mesh fault resilience.  Our approach enables the prediction of the most significant fault resilience behaviors at a web application-level, scratching from single service to multi-service management with efficient agent collaborations.
 
 NNk8s is trained network paramaters for k8s simulation model.
 
