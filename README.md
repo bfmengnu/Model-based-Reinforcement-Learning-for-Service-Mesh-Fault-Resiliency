@@ -1,13 +1,19 @@
 # RL-for-Networking-Resillience
-Fanfei Meng	fanfeimeng2023@u.northwestern.edu		
+Fanfei Meng	
+
+fanfeimeng2023@u.northwestern.edu		
 
 Northwestern University, United States
 
-Lalita Jagadeesan	lalita.jagadeesan@nokia-bell-labs.com	United States	
+Lalita Jagadeesan	
+
+lalita.jagadeesan@nokia-bell-labs.com
 
 Nokia Bell Labs, United States
 
-Marina Thottan	mthottan@amazon.com
+Marina Thottan	
+
+mthottan@amazon.com
 
 Amazon Web Services, United States
 
